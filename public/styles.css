@@ -601,3 +601,8 @@ video {
 .p-5 {
   padding: 1.25rem;
 }
+
+.text-red-700 {
+  --tw-text-opacity: 1;
+  color: rgb(185 28 28 / var(--tw-text-opacity));
+}
